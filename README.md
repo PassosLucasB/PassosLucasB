@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+🔭 Eu sou estudante de desenvolvimento Back-end e atualmente estudo Java
 
 
 🌱 Também estou estudando inglês e italiano
@@ -15,8 +15,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/PassosLucasB">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PassosLucasB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassosLucasB&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
     
   <div style="display: inline_block" align="center"><br>
