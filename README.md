@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou estudante de desenvolvimento Back-end e atualmente estudo Java
+🔭 Eu sou estudante Engenharia de Software
 
 
 🌱 Também estou estudando inglês e italiano
