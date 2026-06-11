@@ -6,10 +6,8 @@
 
 <div align="center">
   
-🔭 Eu sou estudante Engenharia de Software
+🔭 Eu sou estudante de Eng. de Software e Java
 
-
-🌱 Também estou estudando inglês e italiano
 
 
 </div>
